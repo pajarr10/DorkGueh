@@ -220,7 +220,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-**alzzmarket**  
-GitHub: [github.com/amnottdevv/atdork](https://github.com/pajarr10/DorkGueh
+**pajarr**  
+GitHub: [github.com/pajarr10/DorkGueh](https://github.com/pajarr10/DorkGueh
 
 If you find this tool useful, consider leaving a ⭐ on the repository.
