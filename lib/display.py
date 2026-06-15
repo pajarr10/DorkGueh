@@ -10,8 +10,8 @@ def show_banner():
     banner = f.renderText("Atdork")
     console.print(f"[bold green]{banner}[/bold green]")
     info_panel = Panel(
-        "[bold cyan]Developed by alzzmarket[/bold cyan] | "
-        "[blue]github.com/amnottdevv/atdork[/blue]\n"
+        "[bold cyan]Developed by pajarr[/bold cyan] | "
+        "[blue]github.com/pajarr10/DorkGueh[/blue]\n"
         "[dim]Ethical use only | DuckDuckGo API[/dim]",
         border_style="yellow",
         padding=(0, 1),
