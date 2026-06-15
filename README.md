@@ -31,7 +31,7 @@ Atdork empowers security researchers, penetration testers, and OSINT analysts to
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amnottdevv/atdork.git
+   git clone https://github.com/pajarr10/DorkGueh.git
    cd atdork
    ```
 
@@ -221,6 +221,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 **alzzmarket**  
-GitHub: [github.com/amnottdevv/atdork](https://github.com/amnottdevv/atdork)  
+GitHub: [github.com/amnottdevv/atdork](https://github.com/pajarr10/DorkGueh
 
 If you find this tool useful, consider leaving a ⭐ on the repository.
